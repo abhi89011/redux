@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_app.iml" filepath="$PROJECT_DIR$/.idea/modules/test_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/test_app.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/test_app.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/908890880/test_app.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/908890880/test_app.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-850398249/test_app.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-850398249/test_app.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1580917935/test_app.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1580917935/test_app.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-233484376/test_app.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-233484376/test_app.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

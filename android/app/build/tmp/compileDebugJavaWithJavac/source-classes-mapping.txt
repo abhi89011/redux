@@ -1,0 +1,14 @@
+com/test_app/BuildConfig.java
+ com.test_app.BuildConfig
+com/test_app/MainApplication.java
+ com.test_app.MainApplication
+ com.test_app.MainApplication$1
+com/test_app/ReactNativeFlipper.java
+ com.test_app.ReactNativeFlipper
+ com.test_app.ReactNativeFlipper$1
+ com.test_app.ReactNativeFlipper$2
+ com.test_app.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/test_app/MainActivity.java
+ com.test_app.MainActivity
